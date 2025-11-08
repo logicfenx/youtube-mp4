@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/youtube-mp4",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a youtube-mp4",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/youtube-mp4.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/youtube-mp4/"
+    },
+    "homepage": "https://www.logicfen.org/blog/youtube-mp4/"
+}
